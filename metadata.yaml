@@ -1,0 +1,47 @@
+_repo: The-Rape-of-Lucrece_1505
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: "The Rape of Lucrece (1594) is a narrative poem by William Shakespeare\
+  \ about the legendary Lucretia. In his previous narrative poem, Venus and Adonis\
+  \ (1593), Shakespeare had included a dedicatory letter to his patron, the Earl of\
+  \ Southampton, in which he promised to write a \"graver work\". Accordingly, The\
+  \ Rape of Lucrece has a serious tone throughout.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1505'
+  wikidata: Q1398793
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: The Rape of Lucrece
+url: http://www.gutenberg.org/ebooks/1505
+wikipedia:
+- https://fr.wikipedia.org/wiki/The_Rape_of_Lucrece
+- https://ar.wikipedia.org/wiki/%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8_%D9%84%D9%88%D9%83%D8%B1%D9%8A%D8%B3
+- https://nl.wikipedia.org/wiki/The_Rape_of_Lucrece
+- https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%B9%E5%87%8C%E8%BE%B1
+- https://pt.wikipedia.org/wiki/The_Rape_of_Lucrece
+- https://fa.wikipedia.org/wiki/%D8%AA%D8%AC%D8%A7%D9%88%D8%B2_%D8%A8%D9%87_%D9%84%D9%88%DA%A9%D8%B1%D8%B3%DB%8C%D8%A7
+- https://de.wikipedia.org/wiki/Lucretia_(Shakespeare)
+- https://pl.wikipedia.org/wiki/Gwa%C5%82t_na_Lukrecji
+- https://da.wikipedia.org/wiki/Lucretias_Voldf%C3%B8relse_(digt)
+- https://simple.wikipedia.org/wiki/The_Rape_of_Lucrece
+- https://fy.wikipedia.org/wiki/De_R%C3%B4f_fan_Lukresia
+- https://en.wikisource.org/wiki/The_Rape_of_Lucrece
+- https://en.wikipedia.org/wiki/The_Rape_of_Lucrece
+- https://it.wikipedia.org/wiki/Lo_stupro_di_Lucrezia
+- https://sv.wikipedia.org/wiki/Lucretias_v%C3%A5ldt%C3%A4kt
